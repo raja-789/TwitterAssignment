@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Tweather</string>
-    <string name="current_temperature">Current temperature</string>
-    <string name="temperature">%1$f °C / %2$f °F</string>
+    <string name="current_temperature">Temperature</string>
+    <string name="temperature">%1.2f °C / %1.2f °F</string>
+
+    <string name="current_wind_speed">Wind Speed</string>
+
+    <string name="windSpeed">%1.2f km/h</string>
+    <string name="str_please_wait">Please wait</string>
+    <string name="str_connection_error">Internet connection not available.</string>
 </resources>
